@@ -23,8 +23,8 @@
 
 ## 🖼️ Screenshots
 
-### 🏛️ Intro Screen
-![Intro Screen](assets/intro.jpg)
+### 🏛️ Stage 1 : The Library
+![ Library ](assets/library.jpg)
 
 ### 🧪 Stage 2: The Laboratory
 ![Lab Scene](assets/lab.jpg)
